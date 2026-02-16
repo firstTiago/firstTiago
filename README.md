@@ -21,8 +21,21 @@
 
 </div>
 
+
+
+
+
+
+
+
+
 <div align="center">
+
   <a href="https://github.com/firstTiago">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=800&height=100&lines=Olá,+eu+sou+o+Tiago!;Análise+e+Desenvolvimento+de+Sistemas;Criador+do+TribalWars+PRO;JavaScript+%7C+Firebase+%7C+Automação" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=800&height=100&lines=Olá,+eu+sou+o+Tiago!+👋;Análise+e+Desenvolvimento+de+Sistemas;Criador+do+TribalWars+PRO;JavaScript+%7C+Firebase+%7C+Automação" alt="Typing SVG" />
   </a>
-</div>
+
+  <br/>
+
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=firstTiago&show_icons=true&theme=tokyonight&count_private=true" />
+  </div>
