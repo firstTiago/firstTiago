@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,35,71,106&height=250&section=header&text=Tiago&fontSize=70&fontColor=ffffff&animation=fadeIn" alt="Banner Olá, eu sou o Tiago" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,35,71,106&height=250&section=header&text=Olá, eu sou o Tiago&fontSize=55&fontColor=ffffff&animation=fadeIn" alt="Banner Olá Tiago" />
 </div>
 
   <p>
