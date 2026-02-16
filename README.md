@@ -1,3 +1,5 @@
+<div align="center">
+  
   <h2>Olá, eu sou o Tiago!</h2>
 
   <p>
