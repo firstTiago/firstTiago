@@ -7,11 +7,10 @@
   <br />
   ---
 
-  <h2>👋 Olá, eu sou o Tiago!</h2>
+  <h2>Olá, eu sou o Tiago!</h2>
 
   <p>
-    Estudante de <b>Análise e Desenvolvimento de Sistemas</b> e apaixonado por criar soluções que facilitam a experiência dos jogadores.<br />
-    Atualmente, foco minhas energias no desenvolvimento de ferramentas avançadas para o ecossistema de jogos online.
+    Estudante de <b>Análise e Desenvolvimento de Sistemas</b> e fascinado por criar soluções que facilitam a experiência dos usuários. Atualmente, foco minhas energias no desenvolvimento de ferramentas avançadas para o ecossistema de jogos online.
   </p>
 
   <p>
