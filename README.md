@@ -1,15 +1,20 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,35,71,106&height=250&section=header&text=Olá, eu sou o Tiago&fontSize=55&fontColor=ffffff&animation=fadeIn" alt="Banner Olá Tiago" />
-</div>
+
+  <a href="https://github.com/firstTiago">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=23D160&center=true&vCenter=true&width=600&height=70&lines=Olá,+eu+sou+o+Tiago!+👋" alt="Typing SVG" />
+  </a>
+
+  <br />
+  <br />
 
   <p>
-    Estudante de <b>Análise e Desenvolvimento de Sistemas</b> e fascinado por criar soluções que facilitam a experiência dos usuários. Atualmente, foco minhas energias no desenvolvimento de ferramentas para o ecossistema de jogos online.
+    Estudante de <b>Análise e Desenvolvimento de Sistemas</b> e fascinado por criar soluções que facilitam a experiência dos usuários.<br/> Atualmente, foco minhas energias no desenvolvimento de ferramentas para o ecossistema de jogos online.
   </p>
 
   <br />
 
-  <h2>Meus Projetos</h2>
-    <br />
+  <h2>⚔️ Meus Projetos</h2>
+
   <a href="https://tribalwars.pro">
     <img src="https://img.shields.io/badge/TribalWars%20PRO-FFD700?style=for-the-badge&logo=google-chrome&logoColor=black" />
   </a>
