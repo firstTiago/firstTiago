@@ -16,7 +16,6 @@
   </p>
 
   <br />
-  ---
 
   <h2>Tecnologias e Ferramentas</h2>
 
@@ -33,7 +32,6 @@
   </p>
 
   <br />
-  ---
 
   <h2>Meus Projetos</h2>
   
