@@ -8,23 +8,6 @@
 
   <br />
 
-  <h2>Tecnologias e Ferramentas</h2>
-  <br />
-  <img src="https://skillicons.dev/icons?i=js,firebase,html,css,vscode,github,git,discord" />
-
-  <br />
-  <br />
-
-  <h2>Meu Ecossistema</h2>
-  <br />
-  <p>
-    <b>Frontend/Scripts:</b> Criação de UserScripts robustos e interfaces modulares<br />
-    <b>Backend/Infra:</b> Firebase (Functions & Hosting) e Integração com Stripe para licenças<br />
-    <b>Edição:</b> CapCut para demonstração de projetos e updates
-  </p>
-
-  <br />
-
   <h2>Meus Projetos</h2>
     <br />
   <a href="https://tribalwars.pro">
