@@ -5,7 +5,7 @@
   <br />
 
   <p>
-    Paulatim deambulando, longum conficitur ite.
+    Si hortum in bibliotheca habes deerit nihil
   </p>
 
   <br />
