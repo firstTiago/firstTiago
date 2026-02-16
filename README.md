@@ -6,14 +6,6 @@
     Estudante de <b>Análise e Desenvolvimento de Sistemas</b> e fascinado por criar soluções que facilitam a experiência dos usuários. Atualmente, foco minhas energias no desenvolvimento de ferramentas avançadas para o ecossistema de jogos online.
   </p>
 
-  <p>
-    <b>Projeto Atual: </b> Desenvolvendo o <b>TribalWars PRO</b> (Automação e Dashboards)<br />
-      <br />
-    <b>Foco: </b> Arquitetura de sistemas, JavaScript e integração de pagamentos<br />
-      <br />
-    <b>Nas horas vagas: </b> TribalWars, Counter Strike 1.6 e procurando scripts pela web.
-  </p>
-
   <br />
 
   <h2>Tecnologias e Ferramentas</h2>
