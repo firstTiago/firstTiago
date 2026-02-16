@@ -25,6 +25,7 @@
   <br />
 
   <h2>Meu Ecossistema</h2>
+  
   <p>
     <b>Frontend/Scripts:</b> Criação de UserScripts robustos e interfaces modulares<br />
     <b>Backend/Infra:</b> Firebase (Functions & Hosting) e Integração com Stripe para licenças<br />
