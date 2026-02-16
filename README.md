@@ -1,12 +1,3 @@
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=firstTiago&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firstTiago&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
-</div>
-
-  <br />
-  <br />
-  ---
-
   <h2>Olá, eu sou o Tiago!</h2>
 
   <p>
