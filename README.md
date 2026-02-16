@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,35,71,106&height=200&section=header&text=Olá,%20eu%20sou%20o%20Tiago&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=40&v=12345" alt="Banner Olá Tiago" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,35,71,106&height=200&section=header&text=Bem%20Vindo&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=40&v=12346" alt="Banner Bem Vindo" />
 
   <br />
 
