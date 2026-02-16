@@ -5,7 +5,7 @@
   <br />
 
   <p>
-    Estudante de Análise e Desenvolvimento de Sistemas e fascinado por criar soluções que facilitam a experiência dos usuários. Atualmente, foco minhas energias no desenvolvimento de ferramentas para o ecossistema de jogos online.
+    Paulatim deambulando, longum conficitur ite.
   </p>
 
   <br />
