@@ -7,12 +7,11 @@
   </p>
 
   <p>
-    <b>Projeto Atual:
-    </b> Desenvolvendo o <b>TribalWars PRO</b> (Automação e Dashboards)<br />
-    <b>Foco:
-    </b> Arquitetura de sistemas, JavaScript e integração de pagamentos<br />
-    <b>Nas horas vagas:
-    </b> TribalWars, Counter Strike 1.6 e procurando scripts pela web.
+    <b>Projeto Atual: </b> Desenvolvendo o <b>TribalWars PRO</b> (Automação e Dashboards)<br />
+      <br />
+    <b>Foco: </b> Arquitetura de sistemas, JavaScript e integração de pagamentos<br />
+      <br />
+    <b>Nas horas vagas: </b> TribalWars, Counter Strike 1.6 e procurando scripts pela web.
   </p>
 
   <br />
