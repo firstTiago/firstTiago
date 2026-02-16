@@ -14,25 +14,25 @@
   </p>
 
   <p>
-    🛠️ <b>Projeto Atual:
+    <b>Projeto Atual:
     </b> Desenvolvendo o <b>TribalWars PRO</b> (Automação e Dashboards)<br />
-    🎓 <b>Foco:
+    <b>Foco:
     </b> Arquitetura de sistemas, JavaScript e integração de pagamentos<br />
-    🎮 <b>Nas horas vagas:
+    <b>Nas horas vagas:
     </b> TribalWars, Counter Strike 1.6 e procurando scripts pela web.
   </p>
 
   <br />
   ---
 
-  <h2>🛠️ Tecnologias e Ferramentas</h2>
+  <h2>Tecnologias e Ferramentas</h2>
 
   <img src="https://skillicons.dev/icons?i=js,firebase,html,css,vscode,github,git,discord" />
 
   <br />
   <br />
 
-  <h2>📈 Meu Ecossistema</h2>
+  <h2>Meu Ecossistema</h2>
   <p>
     <b>Frontend/Scripts:</b> Criação de UserScripts robustos e interfaces modulares<br />
     <b>Backend/Infra:</b> Firebase (Functions & Hosting) e Integração com Stripe para licenças<br />
@@ -42,14 +42,8 @@
   <br />
   ---
 
-  <h2>📫 Vamos nos conectar?</h2>
-
-  <a href="mailto:seu-email@exemplo.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/seu-usuario">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <h2>Meus Projetos</h2>
+  
   <a href="https://tribalwars.pro">
     <img src="https://img.shields.io/badge/TribalWars%20PRO-FFD700?style=for-the-badge&logo=google-chrome&logoColor=black" />
   </a>
