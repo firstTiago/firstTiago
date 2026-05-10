@@ -1,26 +1,49 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,35,71,106&height=200&section=header&text=Bem%20Vindo&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=40&v=12346" alt="Banner Bem Vindo" />
+  <!-- Header Minimalista -->
+  <img src="https://vercel.app" alt="Banner" />
 
-  <br />
-
-  <p>
-    Si hortum in bibliotheca habes deerit nihil
+  <p align="center">
+    <i>"Si hortum in bibliotheca habes deerit nihil"</i><br>
+    🤖 <b>Automação & IA</b> | Organizador de ideias e códigos.
   </p>
 
   <br />
 
-  <h2>Meus Projetos</h2>
+  <!-- Stack de Tecnologias (Minimalista) -->
+  <p align="center">
+    <img src="https://shields.io" />
+    <img src="https://shields.io" />
+    <img src="https://shields.io" />
+    <img src="https://shields.io" />
+    <img src="https://shields.io" />
+  </p>
+
+  <!-- Ferramentas -->
+  <p align="center">
+    <img src="https://shields.io" />
+    <img src="https://shields.io" />
+    <img src="https://shields.io" />
+  </p>
+
+  <br />
+  
+  <!-- Seção Apolo (Texto Minimalista) -->
+  <p align="center">
+    <code>Apolo Note</code> • <code>Apolo Canvas</code>
+  </p>
 
   <br />
 
-  <a href="https://tribalwars.pro">
-    <img src="https://img.shields.io/badge/TribalWars%20PRO-FFD700?style=for-the-badge&logo=google-chrome&logoColor=black" />
-  </a>
+  <!-- Status de Atividade (Tema TokyoNight para contraste suave) -->
+  <div align="center">
+    <img height="150em" src="https://vercel.app" />
+    <img height="150em" src="https://herokuapp.com" />
+  </div>
 
   <br />
-  <br />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=firstTiago&theme=tokyonight" alt="GitHub Streak" />
+  <!-- Linha Final -->
+  <img src="https://vercel.app" />
 
 </div>
